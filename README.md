@@ -1,6 +1,6 @@
 ## Twitter Clone UI
 
-A fun take on the twitter homepage UI with dummy data, using NextJS and TailwindCSS. Also has the option of dark mode. To change the posts in the feed, edit the dummy data.
+A fun take on the twitter homepage UI with dummy data, using NextJS and TailwindCSS. Also has the option of dark mode. To change the posts data in the feed, edit the dummy data.
 
 To get started:
  1. npm i --legacy-peer-deps (or yarn add --legacy-peer-deps)
